@@ -1,0 +1,6 @@
+Convert a sequence of frames from MicroAVS Geometry ASCII Format (MGF) to PyMOL sequence file of Compile Graphics Objects (CGO).
+
+Currently supports:
+-Convert line segments
+-Convert spheres
+-Allows user to specify static objects that don't update throughout visualization
